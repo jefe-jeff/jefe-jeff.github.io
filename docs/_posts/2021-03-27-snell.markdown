@@ -5,10 +5,6 @@ date:   2021-03-27 15:05:22 -0500
 categories: jekyll update
 ---
 
-snell's law relates the way that light bends when crossing between multiple uniform media to the speed of light in each medium. "Snell's Law of Sines" goes
+snell's law relates the way that light bends when crossing between multiple uniform media to the speed of light in each medium. "Snell's Law of Sines" goes $$n_1 \sin \theta_1 = n_2 \sin \theta_2$$
 
-{% raw %}
- $$n_1 \sin \theta_1 = n_2 \sin \theta_2$$
-{% endraw %}
-
-where 
+where
