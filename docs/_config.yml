@@ -19,14 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: thoughts & co
-email: jeffrey.brown@stanford.edu
+email: jeffbbrown2@gmail.edu
 description: >- # this means to ignore newlines until "baseurl:"
   A place online for thoughts, notes, and general expression.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jefejeff3
+twitter_username: neuro_jeff
 github_username:  jefe-jeff
-future: true
 
 # Build settings
 theme: minima
