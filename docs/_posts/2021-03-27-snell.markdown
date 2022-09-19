@@ -7,4 +7,4 @@ categories: jekyll update
 
 snell's law relates the way that light bends when crossing between multiple uniform media to the speed of light in each medium. "Snell's Law of Sines" goes $$n_1 \sin \theta_1 = n_2 \sin \theta_2$$
 
-where
+where $n_1, n_2$ are the refractive indices of the two media.

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Dynamic Programming"
+date:   2022-09-19 13:01:00 -0500
+categories: jekyll update
+---
+
+Dynamic programming is an efficient way to solve problems involing recursion that have a following structure:
+1. Overlapping subproblems: the solutions of subproblems are used multple times
+2. Optimal substructure: the optimal solution of a problem is a function of the optimal solution of its subproblems.
+
+Some examples of problems with optimal substructure: edit distance & longest common subsequence.
+
+Dynamic programming arises in a variety of domains: sequence alignment in computational biology, ...
